@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "986971842999",
+    "firebase_url": "https://tutorials-f3b84.firebaseio.com",
+    "project_id": "tutorials-f3b84",
+    "storage_bucket": "tutorials-f3b84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986971842999:android:94914173731aff4c7b2032",
+        "android_client_info": {
+          "package_name": "com.fltr.tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986971842999-aip595grbs39gne05tpekiopnqu9im0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdbDu6_Hdn47PIJ2Byn57XZRFG417q5_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986971842999-aip595grbs39gne05tpekiopnqu9im0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
