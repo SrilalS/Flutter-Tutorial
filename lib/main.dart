@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tutorial/FCrud.dart';
+import 'package:tutorial/FCrudColl.dart';
 
 import 'Home.dart';
 
@@ -9,11 +10,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Flutter with FireStore',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Fcrud(),
+      home: FCrudColl(),
     );
   }
 }
